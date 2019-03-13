@@ -1,0 +1,13 @@
+{
+  "description": "无",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wxf29c506d87276d3c",
+  "projectname": "diyige",
+  "miniprogramRoot": "./dist"
+}
